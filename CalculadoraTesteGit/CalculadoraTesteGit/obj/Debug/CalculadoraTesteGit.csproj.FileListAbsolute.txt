@@ -1,0 +1,10 @@
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\bin\Debug\CalculadoraTesteGit.exe.config
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\bin\Debug\CalculadoraTesteGit.exe
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\bin\Debug\CalculadoraTesteGit.pdb
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.csprojAssemblyReference.cache
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.Form1.resources
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.Properties.Resources.resources
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.csproj.GenerateResource.cache
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.csproj.CoreCompileInputs.cache
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.exe
+C:\Users\itzsv\source\repos\CalculadoraTesteGit\CalculadoraTesteGit\obj\Debug\CalculadoraTesteGit.pdb
