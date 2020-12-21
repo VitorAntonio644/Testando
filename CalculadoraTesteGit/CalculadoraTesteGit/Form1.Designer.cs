@@ -35,6 +35,7 @@
             this.Sinal = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.Resulatado = new System.Windows.Forms.Label();
+            this.Multiplicação = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // maskedTextBox1
@@ -105,11 +106,24 @@
             this.Resulatado.TabIndex = 6;
             this.Resulatado.Text = "0";
             // 
+            // Multiplicação
+            // 
+            this.Multiplicação.AutoSize = true;
+            this.Multiplicação.Location = new System.Drawing.Point(186, 116);
+            this.Multiplicação.Name = "Multiplicação";
+            this.Multiplicação.Size = new System.Drawing.Size(87, 17);
+            this.Multiplicação.TabIndex = 7;
+            this.Multiplicação.TabStop = true;
+            this.Multiplicação.Text = "Multiplicação";
+            this.Multiplicação.UseVisualStyleBackColor = true;
+            this.Multiplicação.CheckedChanged += new System.EventHandler(this.Multiplicação_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(395, 189);
+            this.Controls.Add(this.Multiplicação);
             this.Controls.Add(this.Resulatado);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.Sinal);
@@ -133,6 +147,7 @@
         private System.Windows.Forms.Label Sinal;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label Resulatado;
+        private System.Windows.Forms.RadioButton Multiplicação;
     }
 }
 
