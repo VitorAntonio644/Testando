@@ -36,6 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.Resulatado = new System.Windows.Forms.Label();
             this.Multiplicação = new System.Windows.Forms.RadioButton();
+            this.Divisão = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // maskedTextBox1
@@ -118,11 +119,24 @@
             this.Multiplicação.UseVisualStyleBackColor = true;
             this.Multiplicação.CheckedChanged += new System.EventHandler(this.Multiplicação_CheckedChanged);
             // 
+            // Divisão
+            // 
+            this.Divisão.AutoSize = true;
+            this.Divisão.Location = new System.Drawing.Point(279, 116);
+            this.Divisão.Name = "Divisão";
+            this.Divisão.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.Divisão.Size = new System.Drawing.Size(60, 17);
+            this.Divisão.TabIndex = 8;
+            this.Divisão.TabStop = true;
+            this.Divisão.Text = "Divisão";
+            this.Divisão.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(395, 189);
+            this.Controls.Add(this.Divisão);
             this.Controls.Add(this.Multiplicação);
             this.Controls.Add(this.Resulatado);
             this.Controls.Add(this.label2);
@@ -148,6 +162,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label Resulatado;
         private System.Windows.Forms.RadioButton Multiplicação;
+        private System.Windows.Forms.RadioButton Divisão;
     }
 }
 
